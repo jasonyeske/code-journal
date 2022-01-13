@@ -9,3 +9,5 @@ Learning how to use Git Bash and GitHub are a bit confusing but I am eager to le
 - javascript
 - c++
 - jquery
+
+I know lots of the basics in html and css, but with the other languages would need some refreshing before I was used to them again. 
