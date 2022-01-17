@@ -7,7 +7,8 @@
 - work on assignment during the lab period
 - work on the assignment during some of the class breaks
 - take some time to review the day of class so I am not behind on my work
-I am basing my performance of this goal based off of:
+
+#### I am basing my performance of this goal based off of:
 - If the assignment is done before the due date
 - Taking stress off of myself 
 - amount of commits I have per assignment per day
