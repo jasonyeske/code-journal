@@ -13,6 +13,11 @@
 - How much stress I feel 
 - amount of commits I have per assignment per day
 
+### Goal: Write in my journal every class day
+- Take notes and from class
+- Copy and paste helpful links into my journal instead of google docs
+- Use my journal for reminders of how to do certain things and for due dates
+
 
 
 
