@@ -5,6 +5,7 @@
 
 ### Assignment 2 due today
 - Collaboration and merge conflicts
+    - Handed in assignment at 12:53pm 1/17/22
 
 ### I want to work on my assignments this semester before the assigned due date
 - work on assignment during the lab period
