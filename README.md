@@ -30,6 +30,9 @@
 2. Figure out what coding language would work best for this situation
 3. Learn how to create page
 4. Create code (Make sure I am actually learning something new instead of just copy pasting)
+5. Reflect
+- is the product any good?
+    - Did I learn something and is it important to what I need to know?
 
 
 
