@@ -35,6 +35,8 @@
 - is the product any good?
     - Did I learn something and is it important to what I need to know?
 
+### Get ready for tomorrow
+[lesson](https://sait-wbdv.netlify.app/dsgn-270/lessons/day-02)
 
 
 
