@@ -15,9 +15,10 @@
 
 ### Goal: Write in my journal every class day
 #### I struggle with organization and writing things down, this could help keep me organized
-- Take notes and from class
+- Take notes from class
 - Copy and paste helpful links into my journal instead of google docs
 - Use my journal for reminders of how to do certain things and for due dates
+- Would help with what needs to be done in order to stay ahead of schedule
 
 ### Goal: Step out of my own box while trying to code(when I think of an idea)
 #### steps to complete this goal:
