@@ -10,7 +10,7 @@
 
 #### I am basing my performance of this goal based off of:
 - If the assignment is done before the due date
-- Taking stress off of myself 
+- How much stress I feel 
 - amount of commits I have per assignment per day
 
 
