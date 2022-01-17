@@ -35,6 +35,8 @@
 - is the product any good?
     - Did I learn something and is it important to what I need to know?
 
+### Reminder that First assignment of dsgn-270 is due on Jan 19
+
 ### Get ready for tomorrow
 [lesson](https://sait-wbdv.netlify.app/dsgn-270/lessons/day-02)
 
