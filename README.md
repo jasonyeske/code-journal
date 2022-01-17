@@ -39,6 +39,8 @@
 
 ### Get ready for tomorrow
 [lesson](https://sait-wbdv.netlify.app/dsgn-270/lessons/day-02)
+- open all the tools you need to journal
+- ask questions you may have on this assignment
 
 
 
