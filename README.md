@@ -3,6 +3,9 @@
 
 ## January 17, 2022
 
+### Assignment 2 due today
+- Collaboration and merge conflicts
+
 ### I want to work on my assignments this semester before the assigned due date
 - work on assignment during the lab period
 - work on the assignment during some of the class breaks
