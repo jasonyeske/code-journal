@@ -3,7 +3,7 @@
 
 ## January 17, 2022
 
-### I want to work on my assignments before the assigned due date
+### I want to work on my assignments this semester before the assigned due date
 - work on assignment during the lab period
 - work on the assignment during some of the class breaks
 - take some time to review the day of class so I am not behind on my work
