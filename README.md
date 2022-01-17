@@ -18,6 +18,15 @@
 - Copy and paste helpful links into my journal instead of google docs
 - Use my journal for reminders of how to do certain things and for due dates
 
+### Goal: Step out of my own box while trying to code(when I think of an idea)
+#### steps to complete this goal:
+1. get the blueprint of what I want to do established
+    - maybe write down in journal?
+2. Figure out what coding language would work best for this situation
+3. Learn how to create page
+4. Create code (Make sure I am actually learning something new instead of just copy pasting)
+
+
 
 
 
