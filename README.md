@@ -7,7 +7,7 @@
  [How to draw a wireframe](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
 
  - sign up for a Figma education account
- [how to use figma](https://www.youtube.com/watch?v=jk1T0CdLxwU)
+ - [how to use figma](https://www.youtube.com/watch?v=jk1T0CdLxwU)
 - credit to Jesse Showalter on Youtube
 
 
