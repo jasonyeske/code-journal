@@ -1,6 +1,16 @@
 # Code Journal
 
 
+## January 18, 2022
+
+### Goal: Complete a wireframe chart
+- [How to draw a wireframe] (https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+
+
+
+
+
+
 ## January 17, 2022
 
 ### Assignment 2 due today
