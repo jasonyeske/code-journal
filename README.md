@@ -8,7 +8,7 @@
 
  - [x] sign up for a Figma education account
  - [how to use figma](https://www.youtube.com/watch?v=jk1T0CdLxwU)
-- credit to Jesse Showalter on Youtube
+    - credit to Jesse Showalter on Youtube
 
 - I think I will do youtube for my wireframe project
     - as a student, I want to watch a how to video so I can further understand an assignment
