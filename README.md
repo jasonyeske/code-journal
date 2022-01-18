@@ -4,7 +4,8 @@
 ## January 18, 2022
 
 ### Goal: Complete a wireframe chart
-- [How to draw a wireframe] (https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+ [How to draw a wireframe](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+
 
 
 
