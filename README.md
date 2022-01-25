@@ -1,6 +1,36 @@
 # Code Journal
 
 
+
+## January 24th, 2022
+
+### Goal: Complete dsgn-270 assignment 1
+
+- For this assignment I will use the sait website
+    - Has everything needed and makes sense because of the class
+
+- screen clipped all my photos and put them in images folder
+    - Renamed every photo to have - instead of spaces
+
+
+- having error getting photo in
+    - Its in photo folder and if i ctrl+click it it links right to the photo
+- [x] Don't know what I did to fix it but it eventually fixed itself
+
+
+- Learned about nav's and giving items rolls
+    - good for only giving certain items css properties
+
+- Need to learn the flexbox stuff more
+    - css is not super tough but a lot more space for error
+    - don't have a ton of time between assignments, job, and gym
+
+
+- added some future background colours and fonts to a folder on my computer
+
+- (I forgot to push any of this to my github account, whoops)
+
+
 ## January 18, 2022
 
 ### Goal: Complete a wireframe chart
