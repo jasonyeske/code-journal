@@ -2,6 +2,40 @@
 
 
 
+
+## January 27th, 2022
+
+### To Do: CSS Grid Layout Activity
+
+- I want to learn how to create a grid
+    - To do this I can use [Grid by Example](https://gridbyexample.com/examples/) 
+        - This site shows how to build a grid
+- I want to figure out how to individually change whats in each grid
+    - 
+- I want to learn how to change a grids layout after I have it on screen
+
+
+
+## January 25th, 2022
+
+### Complete navigation bar assignment and hand in
+
+[how to create a navigation bar menu](https://gist.github.com/lilyx13/b20b36f46354e74b1efafcfa5c170d1a)
+
+- the li > a stuff is confusing
+
+- Figured out I can make things do different things by hovering on it
+    - a:hover, a:link, a:visited along with text-decoration
+
+- not sure yet how to make the hamburger bar happen when page gets too small
+
+
+
+
+
+
+
+
 ## January 24th, 2022
 
 ### Goal: Complete dsgn-270 assignment 1
