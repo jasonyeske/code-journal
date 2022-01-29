@@ -16,7 +16,8 @@
         - If I want the same color for everything, then I can just have them be the same class
     
 - I want to learn how to change a grids layout after I have it on screen
-
+    - To do this I can assign grid-column and grid-row
+        - [Grid by Example](https://gridbyexample.com/examples/example5/)
 
 
 ## January 25th, 2022
