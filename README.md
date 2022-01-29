@@ -11,7 +11,10 @@
     - To do this I can use [Grid by Example](https://gridbyexample.com/examples/) 
         - This site shows how to build a grid
 - I want to figure out how to individually change whats in each grid
-    - 
+    - If I create a div for each box I want, and then give each div a class
+    - add each class individually to the css to change the color
+        - If I want the same color for everything, then I can just have them be the same class
+    
 - I want to learn how to change a grids layout after I have it on screen
 
 
