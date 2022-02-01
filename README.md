@@ -22,7 +22,7 @@
         - If database has correct info, then log into account, if not display an error message asking user to try again
             - Would need a database in the future, don't remember what we used in highschool
     
-    - Need to work on customization on projects, keeping it too simple
+- Need to work on customization on projects, keeping it too simple
 
 ## January 27th, 2022
 
