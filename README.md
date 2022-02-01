@@ -1,7 +1,19 @@
 # Code Journal
 
+## February 1st, 2022
+### To Do: Work on form assignment
 
+- I want to learn the different type of forms and put them into action
+    - To do this I can visit [Form input types](https://www.w3schools.com/html/html_form_input_types.asp)
 
+- Struggling with Radio types and being able to select all of them at once
+    - Figured it out, have to assign all the same radio types a name, then only one is selectable in that group
+
+- Can I change the color of the circle in the radio inputs?
+    - Yes, if I use "accent-color:______", I can change it [usefulangle](https://usefulangle.com/post/389/css-radio-button-color)
+
+- By playing around with it too, I was able to change the color of all the text boxes by assigning each input type a class
+    - Used background-color to actually change the color of the box
 
 ## January 27th, 2022
 
