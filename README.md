@@ -15,6 +15,15 @@
 - By playing around with it too, I was able to change the color of all the text boxes by assigning each input type a class
     - Used background-color to actually change the color of the box
 
+- In highschool used lots of these forms to make a webpage that actually submitted
+    - Want to remember how to do this
+        - Need a database that holds the data
+        - When user logs in, site looks into database for user info
+        - If database has correct info, then log into account, if not display an error message asking user to try again
+            - Would need a database in the future, don't remember what we used in highschool
+    
+    - Need to work on customization on projects, keeping it too simple
+
 ## January 27th, 2022
 
 ### To Do: CSS Grid Layout Activity
