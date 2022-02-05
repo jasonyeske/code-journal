@@ -1,5 +1,40 @@
 # Code Journal
 
+## February 4th, 2022
+### To Do: Work on assignment 4
+
+- I want to do a page for customizing a character in a video game(mmorpg)
+    - radio boxes
+        - hairstyle
+        - eye color
+        - height 
+        - race (ork, elf, etc...)
+        - gender
+   
+    - Username/character name (text)
+    - date of birth (games 18+) (date)
+    - Region (what servers to put you on) (dropdown)
+    - No password because it cannot be encrypted
+
+- Black background
+- Red font (Mate SC font)
+    - [mate sc](https://fonts.google.com/specimen/Mate+SC)
+- white outlines(?)
+- add some pictures
+    - sword
+    - bow
+    - staff
+- add cards around the options
+
+
+
+### To do: Play around with Formspree/get setup on it
+[Formspree](https://formspree.io/)
+- Is there a way to encrypt a password using this site?
+    - I don't believe so
+
+
+
 ## February 1st, 2022
 ### To Do: Work on form assignment
 
