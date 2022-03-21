@@ -1,5 +1,70 @@
 # Code Journal
 
+## March 18th, 2022
+
+### To Do: Create a mockup on Figma of a webpage 
+- Create a page
+- Use my mood board that we created with Tony
+    - [Mood Board](https://www.figma.com/file/iih3iMU8WnkvvnlSVeLxr9/Untitled?node-id=0%3A1)
+- I want to make a sports page
+
+### Sports page
+- Create a nav bar
+    - Want to have a hamburger menu for all of the sports
+    - Want to have some of the main sports dropdown
+- Create a theme
+    - Fonts
+    - Colours
+    - Shapes
+- Want to have two different sized cards
+    - Big cards get the more important news
+        - Want the big cards to cover the whole screen
+    - Small cards get the not as important news
+        - Smaller cards can have 2-3 per row
+- Create a card, turn it into component for multi-use aspect
+- lay cards out nicely on page
+- create a footer
+    - Add some commonly used links to footer
+- Add some photos and text to cards
+    - Just use Lorem Ipsum for now, not important unless the page goes live
+
+- Use some Font Awesome extensions for some of the smaller things
+    - Arrow for dropdown menus
+    - Hamburger menu logo for sports
+
+- User doesn't know to click on the card to enter page
+    - Maybe add a button to read more/ enter new page?
+    - Could also change the outline color?
+        - Add a button for now, prototype a zoom or something later
+
+
+
+
+
+
+## March 14th, 2022
+
+### To Do: Work on SVG's (Styling, Creating non ugly curves)
+- When tracing, my curves look absolutely awful
+- [Figma Pen Tool Basics](https://www.youtube.com/watch?v=5x2uHUB_pzw)
+- I want to create a logo for a sport related site that I can use in the future
+- If I click on my last placed vector, it will reset the curve
+    - I can also use smaller lines and curve them after the shape is complete
+- [Figma Vector help](https://help.figma.com/hc/en-us/articles/360040450213-Vector-networks)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## February 4th, 2022
 ### To Do: Work on assignment 4
 
